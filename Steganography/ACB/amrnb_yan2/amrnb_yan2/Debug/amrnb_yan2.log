@@ -1,0 +1,20 @@
+﻿  encoder.c
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(78,16): warning C4020: “mkdir”: 实参太多
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(85,14): warning C4020: “mkdir”: 实参太多
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(114,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(144,10): warning C4013: “coder”未定义；假设外部返回 int
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(146,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“int *”
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(147,12): warning C4013: “decoder”未定义；假设外部返回 int
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(114,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(116,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(117,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(103,14): warning C4101: “j”: 未引用的局部变量
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(103,21): warning C4101: “em_rate”: 未引用的局部变量
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(339,150): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(339,147): warning C4024: “Encoder_Interface_Encode”: 形参和实参 11 的类型不同
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(201,11): warning C4101: “file_lag”: 未引用的局部变量
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(423,34): warning C4013: “Decoder_Interface_init”未定义；假设外部返回 int
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(423,36): warning C4047: “=”:“int *”与“int”的间接级别不同
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(462,27): warning C4013: “Decoder_Interface_Decode”未定义；假设外部返回 int
+D:\work\paper1\amrnb_yan2\amrnb_yan2\code\encoder.c(467,24): warning C4013: “Decoder_Interface_exit”未定义；假设外部返回 int
+  amrnb_yan2.vcxproj -> D:\work\paper1\amrnb_yan2\Debug\amrnb_yan2.exe

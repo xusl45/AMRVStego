@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/3/11 星期日 17:13:24。
+     1>项目“C:\Users\Administrator\Desktop\写三篇论文\AMR_Coder_Geiser\amr3gpp\amr3gpp.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\AMRStegCoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         amr3gpp.vcxproj -> C:\Users\Administrator\Desktop\写三篇论文\AMR_Coder_Geiser\Release\AMRStegCoder.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\AMRStegCoder.unsuccessfulbuild”。
+         正在对“Release\AMRStegCoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\写三篇论文\AMR_Coder_Geiser\amr3gpp\amr3gpp.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.03

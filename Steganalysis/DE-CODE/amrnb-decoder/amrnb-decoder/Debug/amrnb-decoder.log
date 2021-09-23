@@ -1,0 +1,17 @@
+﻿  decoder.c
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(14,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(54,14): warning C4013: “access”未定义；假设外部返回 int
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(56,10): warning C4013: “mkdir”未定义；假设外部返回 int
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(83,12): warning C4013: “decoder”未定义；假设外部返回 int
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(71,7): warning C4101: “pcm_path”: 未引用的局部变量
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(71,66): warning C4101: “time”: 未引用的局部变量
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(71,51): warning C4101: “filename”: 未引用的局部变量
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\decoder.c(71,22): warning C4101: “dat_path”: 未引用的局部变量
+  interf_dec.c
+  sp_dec.c
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\sp_dec.c(10,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\work\paper1\code\amrnb-decoder\amrnb-decoder\code\sp_dec.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  stdafx.c
+  正在生成代码...
+  amrnb-decoder.vcxproj -> D:\work\paper1\code\amrnb-decoder\Debug\amrnb-decoder.exe

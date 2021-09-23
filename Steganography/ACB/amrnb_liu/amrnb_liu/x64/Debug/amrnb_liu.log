@@ -1,0 +1,16 @@
+﻿  encoder.c
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(94,10): warning C4098: “m4”:“void”函数返回值
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(101,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(107,14): warning C4013: “access”未定义；假设外部返回 int
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(109,10): warning C4013: “mkdir”未定义；假设外部返回 int
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(143,55): warning C4244: “函数”: 从“float”转换到“size_t”，可能丢失数据
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(159,10): warning C4013: “coder”未定义；假设外部返回 int
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(160,12): warning C4013: “decoder”未定义；假设外部返回 int
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(133,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(134,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(135,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(125,14): warning C4101: “j”: 未引用的局部变量
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(363,91): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(390,70): warning C4020: “Encoder_Interface_Encode”: 实参太多
+D:\work\paper1\amrnb_liu\amrnb_liu\code\encoder.c(251,11): warning C4101: “file_lag”: 未引用的局部变量
+  amrnb_liu.vcxproj -> D:\work\paper1\amrnb_liu\x64\Debug\amrnb_liu.exe

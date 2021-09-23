@@ -1,0 +1,29 @@
+﻿  encoder.c
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(78): warning C4020: “mkdir”: 实参太多
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(85): warning C4020: “mkdir”: 实参太多
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(142): warning C4013: “coder”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(144): warning C4474: printf: 格式字符串中传递的参数太多
+  f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(144): note: 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(145): warning C4013: “decoder”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(114): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(115): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(103): warning C4101: “j”: 未引用的局部变量
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(103): warning C4101: “em_rate”: 未引用的局部变量
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(337): warning C4047: “函数”:“int *”与“int”的间接级别不同
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(337): warning C4024: “Encoder_Interface_Encode”: 形参和实参 11 的类型不同
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(199): warning C4101: “file_lag”: 未引用的局部变量
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(421): warning C4013: “Decoder_Interface_init”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(421): warning C4047: “=”:“int *”与“int”的间接级别不同
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(460): warning C4013: “Decoder_Interface_Decode”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\encoder.c(465): warning C4013: “Decoder_Interface_exit”未定义；假设外部返回 int
+  interf_dec.c
+  interf_enc.c
+  sp_dec.c
+  sp_enc.c
+f:\onedrive\ats\code\stego\amrnb_yan2\amrnb_yan2\code\sp_enc.c(3563): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  stdafx.c
+  正在生成代码
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  amrnb_yan2.vcxproj -> F:\OneDrive\ATS\code\stego\amrnb_yan2\Release\amrnb_yan2.exe

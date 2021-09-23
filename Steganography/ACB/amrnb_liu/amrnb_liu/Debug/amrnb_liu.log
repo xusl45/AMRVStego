@@ -1,0 +1,21 @@
+﻿  encoder.c
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(93): warning C4098: “m4”:“void”函数返回值
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(106): warning C4013: “access”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(108): warning C4013: “mkdir”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(159): warning C4013: “coder”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(160): warning C4013: “decoder”未定义；假设外部返回 int
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(125): warning C4101: “j”: 未引用的局部变量
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(390): warning C4020: “Encoder_Interface_Encode”: 实参太多
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\encoder.c(251): warning C4101: “file_lag”: 未引用的局部变量
+  interf_dec.c
+  interf_enc.c
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\interf_enc.c(630): warning C4020: “Speech_Encode_Frame”: 实参太多
+  sp_dec.c
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\sp_dec.c(10): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\sp_dec.c: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  sp_enc.c
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\sp_enc.c(3473): warning C4101: “msgLength”: 未引用的局部变量
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\sp_enc.c(11490): warning C4029: 声明的形参表不同于定义
+  正在生成代码...
+f:\onedrive\ats\code\stego\amrnb_liu\amrnb_liu\code\sp_enc.c(66): warning C4715: “Binary_idx”: 不是所有的控件路径都返回值
+  amrnb_liu.vcxproj -> F:\OneDrive\ATS\code\stego\amrnb_liu\Debug\amrnb_liu.exe

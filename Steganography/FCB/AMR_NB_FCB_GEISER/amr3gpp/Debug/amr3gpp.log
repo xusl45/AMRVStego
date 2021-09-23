@@ -1,0 +1,40 @@
+﻿生成启动时间为 2019/1/8 星期二 22:34:48。
+     1>项目“J:\STEGO\CODE\AMR_NB_FCB_GEISER\amr3gpp\amr3gpp.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\AMRStegCoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2010\VS2010INSTALLIN20181230\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "c-code\encoder.c" "c-code\interf_enc.c" "c-code\sp_enc.c"
+         sp_enc.c
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\sp_enc.c(7141): warning C4101: “t”: 未引用的局部变量
+         interf_enc.c
+         encoder.c
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(83): warning C4013: “AMRcoder”未定义；假设外部返回 int
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(70): warning C4101: “i”: 未引用的局部变量
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(92): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\io.h(299) : 参见“access”的声明
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>j:\stego\code\amr_nb_fcb_geiser\amr3gpp\c-code\encoder.c(261): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vs2010installin20181230\vc\include\stdio.h(253) : 参见“fscanf”的声明
+         正在生成代码...
+       Link:
+         D:\VS2010\VS2010INSTALLIN20181230\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\STEGO\CODE\AMR_NB_FCB_GEISER\Debug\AMRStegCoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"J:\STEGO\CODE\AMR_NB_FCB_GEISER\Debug\AMRStegCoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\STEGO\CODE\AMR_NB_FCB_GEISER\Debug\AMRStegCoder.lib" /MACHINE:X86 Debug\encoder.obj
+         Debug\interf_enc.obj
+         Debug\sp_enc.obj
+         amr3gpp.vcxproj -> J:\STEGO\CODE\AMR_NB_FCB_GEISER\Debug\AMRStegCoder.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\AMRStegCoder.unsuccessfulbuild”。
+         正在对“Debug\AMRStegCoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“J:\STEGO\CODE\AMR_NB_FCB_GEISER\amr3gpp\amr3gpp.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10

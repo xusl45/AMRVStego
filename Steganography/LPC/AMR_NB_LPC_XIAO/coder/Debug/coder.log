@@ -1,0 +1,12 @@
+﻿  coder.c
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(89,10): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(112,17): warning C4013: “AMRCoder”未定义；假设外部返回 int
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(106,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(107,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(213,36): warning C4047: “函数”:“const char *const ”与“char”的间接级别不同
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(213,32): warning C4024: “printf”: 形参和实参 1 的类型不同
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(196,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(203,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(215,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\coder\coder.c(293,14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  coder.vcxproj -> D:\work\python\other\Steganography\AMR_NB_LPC_XIAO\Debug\coder.exe
